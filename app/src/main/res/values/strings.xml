@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comeat</string>
+    <string name="lbl_email">Adresse Email</string>
+    <string name="exmpl_email">Exemple.Mail@gmail.com</string>
+    <string name="lbl_mdp">Mot de Passe</string>
+    <string name="btn_valider">Valider</string>
+    <string name="btn_annuler">Annuler</string>
+</resources>
